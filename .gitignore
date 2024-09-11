@@ -46,6 +46,7 @@ bld/
 [Ll]og/
 [Bb]uild/
 build*/
+/.cache/
 .git/
 .git - Copy/
 src - Copy/
